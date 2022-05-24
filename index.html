@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <meta name="description" content="Base Apparel Coming Soon Page built as a solution for a Frontend mentor challenge">
+  <meta name="theme" content="#000000">
+  <link rel="stylesheet" href="styles.css">
+  <title>Base Apparel coming soon page</title>
+</head>
+<body>
+  <!-- Main -->
+  <main>
+    <img src="./images/logo.svg" alt="" id="logo">
+    <div id="main-img"></div>
+    <main class="main-container">
+      <div class="text">
+        <h1>
+          <span>We're</span> <br /> coming <br /> soon
+        </h1>
+        <p>
+          Hello fellow shoppers! We're currently building our new fashion store. 
+          Add your email below to stay up-to-date with announcements and our launch deals.
+        </p>
+        <form id="form">
+            <input type="email" name="email" id="email" placeholder="Email Address" aria-label="Email Address"">
+            <img src="./images/icon-error.svg" alt="" id="error-icon">
+            <button type="button" id="submit-btn"><span>&gt;</span></button>
+        </form>
+        <span id="error-msg">Please provide a valid email</span>
+      </div>
+    </main>
+  </main>
+
+  <!-- Script -->
+  <script src="./script.js"></script>
+</body>
+</html>
