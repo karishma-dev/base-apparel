@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Krrish105/base-apparel](https://github.com/Krrish105/base-apparel)
-- Live Site URL: [http://Krrish105.github.io/base-apparel](http://Krrish105.github.io/base-apparel)
+- Solution URL: [https://github.com/karishma-dev/base-apparel](https://github.com/karishma-dev/base-apparel)
+- Live Site URL: [http://karishma-dev.github.io/base-apparel](http://karishma-dev.github.io/base-apparel)
 
 ## My process
 
@@ -46,8 +46,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
+- Frontend Mentor - [karishma-dev](https://www.frontendmentor.io/profile/karishma-dev)
 - Twitter - [_karishma10](https://twitter.com/_karishma10)
 - LinkedIn - [Karishma Garg](https://www.linkedin.com/in/karishma-garg-)
-- CodePen - [Krrish105](https://codepen.io/krrish105)
+- CodePen - [karishma-dev](https://codepen.io/karishma-dev)
 
